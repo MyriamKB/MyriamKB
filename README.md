@@ -100,4 +100,4 @@
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myriamKB&show_icons=true&theme=aura_dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myriamKB&count_private=true&show_icons=true&theme=aura_dark)
